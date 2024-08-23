@@ -1,1 +1,3 @@
 # US Household Income Project
+
+This project focused on cleaning and analyzing US household income data. I corrected errors, removed duplicates, and examined key trends, including state and city income patterns, to provide clearer insights into income distribution. I identified the top states by land and water area and found where average incomes are highest and lowest. I looked at income differences between cities and combined income data with statistics, uncovering missing records. This work provided a clearer view of income distribution and key economic trends.
