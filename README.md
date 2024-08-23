@@ -1,6 +1,6 @@
 # SQL Projects Collection
 
-Welcome to the SQL Projects Collection! This repository contains a selection of my SQL projects focused on data analysis and data cleaning. Each project showcases my skills in working with real-world datasets to extract meaningful insights.
+This repository contains a selection of my SQL projects focused on data analysis and data cleaning. Each project showcases my skills in working with real-world datasets to extract meaningful insights.
 
 ## Projects
 
