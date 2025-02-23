@@ -7,7 +7,3 @@ This repository contains a selection of my SQL projects focused on data analysis
 - [World-Life-Expectancy](World-Life-Expectancy) - a data cleaning project using MySQL. In this project, I worked with World Life Expectancy data to prepare it for analysis by writing efficient MySQL queries.
 
 - [US-Household-Income](US-Household-Income) - a project dedicated to analyzing U.S. household income data. Here, I utilized SQL to perform various data cleaning tasks and execute complex queries to derive insights on income distribution.
-
-Feel free to explore the folders to see the SQL scripts and results. If you have any questions, suggestions, or feedback, please create an issue or reach out.
-
-Happy querying!
