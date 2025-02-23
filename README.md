@@ -1,6 +1,6 @@
 # SQL Projects Collection
 
-TThis collection includes my SQL projects on data analysis and cleaning.
+This collection includes my SQL projects on data analysis and cleaning.
 
 ## Projects
 
