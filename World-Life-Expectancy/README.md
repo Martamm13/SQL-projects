@@ -1,3 +1,3 @@
 # World Life Expectancy Project
 
-I cleaned and analyzed global life expectancy data, fixing missing values and duplicates. I explored trends, country-specific insights, and how life expectancy relates to economic factors.
+I worked with global life expectancy data, cleaned it up by fixing missing values and duplicates, and explored trends across countries.
