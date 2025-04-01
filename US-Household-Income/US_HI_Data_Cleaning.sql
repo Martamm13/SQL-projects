@@ -4,8 +4,6 @@
 -- Then, I fix issues like mismatched column names, duplicate records, and inconsistencies
 -- Updates and checks ensure the data is accurate and consistent across the dataset
 
--- Select All Data from Household Income Table
--- Purpose: Get all rows and columns from the household income table for initial review
 SELECT * 
 FROM us_project.us_household_income
 ;
