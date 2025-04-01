@@ -83,15 +83,3 @@ ORDER BY life_expectancy DESC;
 -- View all data
 SELECT *
 FROM world_life_expectancy;
-
--- Rolling adult mortality for 'United' countries
-SELECT Country,
-       Year,
-       `life expectancy`,
-       `Adult Mortality`,
-       (SELECT SUM(`Adult Mortality`)
-        FROM world_life_expectancy AS w2
-        WHERE w2.Country = w1.Country
-          AND w2.Year <= w1.Year) AS Rolling_Total
-FROM world_life_expectancy AS w1
-WHERE Country LIKE '%United%';
